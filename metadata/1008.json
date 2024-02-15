@@ -1,3 +1,9 @@
 {
-  "type": "Character"
+  "name": "Grails #1008",
+  "description": "Grails is the first collection of 10,000 items on starknet enabled by the erc404 standard. Collect, trade, build and hunt grails, in an open and ever-expanding universe.",
+  "image": "ipfs://bafybeibcoejqnp7p5jrwzpuawgvy3ppu7hkkcaquuigtufvqg2g3ihqfqi/1008.png",
+  "attributes": {
+    "id": 1008,
+    "type": "Character"
+  }
 }

@@ -1,3 +1,9 @@
 {
-  "type": "Potion"
+  "name": "Grails #4695",
+  "description": "Grails is the first collection of 10,000 items on starknet enabled by the erc404 standard. Collect, trade, build and hunt grails, in an open and ever-expanding universe.",
+  "image": "ipfs://bafybeibcoejqnp7p5jrwzpuawgvy3ppu7hkkcaquuigtufvqg2g3ihqfqi/4695.png",
+  "attributes": {
+    "id": 4695,
+    "type": "Potion"
+  }
 }

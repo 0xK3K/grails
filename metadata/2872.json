@@ -1,3 +1,9 @@
 {
-  "type": "Weapon"
+  "name": "Grails #2872",
+  "description": "Grails is the first collection of 10,000 items on starknet enabled by the erc404 standard. Collect, trade, build and hunt grails, in an open and ever-expanding universe.",
+  "image": "ipfs://bafybeibcoejqnp7p5jrwzpuawgvy3ppu7hkkcaquuigtufvqg2g3ihqfqi/2872.png",
+  "attributes": {
+    "id": 2872,
+    "type": "Weapon"
+  }
 }
